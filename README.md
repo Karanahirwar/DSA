@@ -1,2 +1,2 @@
 # DSA
-here is a code of DSA in c++ language 
+here is a code of DSA in C++ language 
